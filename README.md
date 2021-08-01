@@ -15,7 +15,7 @@ This is a simple note project that can help the user store their notes.
 &nbsp;  
 
 ## Go Live
-To see this project online click [here](https://notewebapplication.herokuapp.com)
+To see this project online click [here](https://notewebapplication.herokuapp.com){:target="_blank"}
 
 ## Technologies
 * PHP version 8
